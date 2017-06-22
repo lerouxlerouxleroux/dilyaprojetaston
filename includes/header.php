@@ -11,4 +11,4 @@
     
 </head>
 
-<body>
+<!--<body background="http://localhost/projet/dilyaprojetaston/dilyaprojetaston/img/imageaccueil.jpg">-->

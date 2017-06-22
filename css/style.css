@@ -24,7 +24,8 @@ nav.sitemap {
 	height: 150px;
     width: 100%;
     background: #24445C;
-    margin-top: 50px; /*IL FAUT GERER L'AFFICHAGE DE L'image de fond ICI*/
+    margin-bottom: 0px; /*IL FAUT GERER L'AFFICHAGE DE L'image de fond ICI*/
+   
 }
 
 ul.sitemap {
@@ -120,6 +121,6 @@ a {
 }
 
 .imagedefond {
+    min-height: 800px;
 	
-	background-image:rl("img/imageaccueil.jpg");
 }
