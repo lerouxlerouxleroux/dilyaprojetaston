@@ -1,4 +1,4 @@
-
+<?php session_start();?>
 <?php
   $menus = [
         ['href' => 'espacemembre.php', 'label' => 'Espace Membre'],

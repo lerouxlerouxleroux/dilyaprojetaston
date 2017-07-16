@@ -1,4 +1,5 @@
 <?php
+include_once 'includes/access.inc.php';
   $menus = [
         ['href' => 'index.php', 'label' => 'Accueil'],
         ['href' => 'boutique.php', 'label' => 'Boutique en ligne'],
@@ -22,6 +23,8 @@
                     </a>
                 </li>
         <?php endforeach ?>
+       
+
     </ul>
 </nav>
  
